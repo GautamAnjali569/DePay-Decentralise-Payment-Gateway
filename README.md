@@ -95,5 +95,4 @@ DePay is revolutionizing digital payments by offering a **truly decentralized** 
 ### 🔗 Connect with Us
 Stay updated on **DePay** and explore its features:  
 📌 Official Website: [Coming Soon]  
-📌 Community Support: [Telegram](#) | [Discord](#)  
-📌 GitHub Repository: [Coming Soon]  
+
