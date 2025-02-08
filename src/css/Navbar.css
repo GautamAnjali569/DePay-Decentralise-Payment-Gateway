@@ -1,0 +1,86 @@
+.App {
+    text-align: center;
+    /* background-color: #382264; */
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .new1{
+    border-radius: 20%;
+  }
+  
+  .mintBtn{
+    padding: 30px, 30px;
+    width: 18%;
+    height: 4%;
+    font-size: 1.6em;
+    /* color: aliceblue; */
+    background-color: red;
+    border-radius: 25px ;
+    border: none;
+  
+  }
+  
+  .btn-primary1{
+    display: flex;
+    align-items: right;
+    background-color: #61dafb;
+    margin-left: 100vh;
+  
+  }
+  
+  .nav-item{
+    display: inline;
+    align-items: left;
+  }
+  
+  .navbar{
+    color: rgb(58, 225, 255);
+    /* background-color: #071a5f; */
+    text-emphasis-color: red; 
+  }
+  .nav-link{
+    /* color: aliceblue; */
+    font-size: 1.2em;
+    padding: 20px 20px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1em;
+    padding-left: 1em;
+  }
+  .nav-item1{
+    padding-right: 1em;
+    padding-left: 1em;
+    align-self: center;
+    font-size: 1.2em;
+  }
+  
+  .connectBtn{
+    background-color: rgb(62, 244, 226);
+    margin-top: 25%;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 6px 15px;
+    border-radius: 15px;
+    border: 0.2px solid gray;
+    font-size: 1.4em;
+  }
+  
+  .mintBtn:hover{
+    background-color: rgb(255, 82, 82);
+  }
+
+  .navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    background-color: gainsboro;
+}
